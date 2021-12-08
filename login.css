@@ -1,0 +1,31 @@
+.form-heading{
+    text-align: center;
+    margin-top: 6rem;
+    font-size: larger;
+}
+.navbarLink{
+font-size: larger;
+}
+
+.formdeatls{
+    text-align: center;
+    margin-top: 4rem;
+}
+input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: rgb(11, 11, 12);
+    width: 15rem;
+  }
+  input:focus {
+    border-color: rgb(19, 0, 128)
+  }
+  .label {
+    margin-right: 60px;
+    font-size: larger;
+
+  }
+  .button{
+      margin-top: 5rem;
+    }
+  
